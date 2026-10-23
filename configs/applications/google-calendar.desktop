@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Calendar
+GenericName=Calendar
+Comment=Access and manage your Google Calendar
+Exec=chromium --app=https://calendar.google.com/calendar/u/0/r
+Terminal=false
+Type=Application
+Icon=google-calendar
+Categories=Office;Calendar;
+StartupWMClass=calendar.google.com
+Keywords=Google;Calendar;Schedule;Events;

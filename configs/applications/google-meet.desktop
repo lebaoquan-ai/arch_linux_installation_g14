@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Meet
+GenericName=Video Conferencing
+Comment=Video calls and meetings with Google Meet
+Exec=chromium --app=https://meet.google.com
+Terminal=false
+Type=Application
+Icon=google-meet
+Categories=Network;VideoConference;AudioVideo;
+StartupWMClass=meet.google.com
+Keywords=Google;Meet;Meeting;Video;Call;

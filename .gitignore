@@ -1,0 +1,19 @@
+# Ignore system snapshots, archives and disk images
+timeshift/
+snapshots/
+*.tar
+*.tar.gz
+*.tar.xz
+*.tar.zst
+*.img
+*.iso
+*.raw
+*.qcow2
+*.btrfs
+*.bak
+
+# Cache and temporary files
+.cache/
+tmp/
+*.log
+todo.txt

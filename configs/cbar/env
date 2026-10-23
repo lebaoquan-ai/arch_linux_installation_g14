@@ -1,0 +1,2 @@
+# Optional environment variables for cbar plugins.
+# Example: CBAR_SSH_HOSTS="server,user@host"

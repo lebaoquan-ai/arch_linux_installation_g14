@@ -1,0 +1,8 @@
+[
+    "https://meet\\.google\\.com/[a-z-]+",
+    "https://[a-z0-9]+\\.zoom\\.us/j/[0-9]+",
+    "https://teams\\.microsoft\\.com/l/meetup-join/[^\\s]+",
+    "https://teams\\.live\\.com/meet/[^\\s]+",
+    "https://[a-z0-9]+\\.webex\\.com/[^\\s]+/j\\.php\\?MTID=[^\\s]+",
+    "https://[a-z0-9]+\\.webex\\.com/meet/[^\\s]+",
+]
