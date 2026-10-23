@@ -8,8 +8,8 @@ This repository contains reproducible scripts, package declarations, and configu
 
 ### 1. Clone this repository (or copy it to your new system)
 ```bash
-git clone git@github.com:<your-user>/setup-pc.git ~/setup-pc
-cd ~/setup-pc
+git clone git@github.com:lebaoquan-ai/arch_linux_installation_g14.git ~/arch_linux_installation_g14
+cd ~/arch_linux_installation_g14
 ```
 
 ### 2. Run the Full Provisioning Script
